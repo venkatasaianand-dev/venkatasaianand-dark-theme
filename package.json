@@ -1,0 +1,46 @@
+{
+  "name": "venkatasaianand-dark-theme",
+  "displayName": "Venkatasaianand Dark Theme",
+  "description": "A deep, low-glare dark theme with vivid, easy-to-read syntax colors.",
+  "version": "1.0.0",
+  "publisher": "venkatasaianand-dev",
+  "author": {
+    "name": "Venkata Sai Anand",
+    "email": "venkatasaianand.dev@gmail.com"
+  },
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#0c0c15",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venkatasaianand-dev/venkatasaianand-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/venkatasaianand-dev/venkatasaianand-dark-theme/issues"
+  },
+  "homepage": "https://github.com/venkatasaianand-dev/venkatasaianand-dark-theme#readme",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color theme",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Venkatasaianand Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/venkatasaianand-dark-color-theme.json"
+      }
+    ]
+  }
+}
