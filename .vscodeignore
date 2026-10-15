@@ -6,3 +6,4 @@
 *.zip
 images/*.svg
 Update.md
+samples/**
