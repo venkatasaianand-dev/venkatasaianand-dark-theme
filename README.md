@@ -2,6 +2,8 @@
 
 A deep, low-glare dark theme for Visual Studio Code with vivid, easy-to-read syntax colors.
 
+![Venkatasaianand Dark Theme screenshot](https://raw.githubusercontent.com/venkatasaianand-dev/venkatasaianand-dark-theme/main/images/screenshot.png)
+
 ## Install
 
 1. Open the **Extensions** view (`Ctrl+Shift+X` / `Cmd+Shift+X`).
